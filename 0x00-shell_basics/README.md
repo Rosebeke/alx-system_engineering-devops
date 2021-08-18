@@ -1,10 +1,6 @@
 #!/bin/bash
 
-myloc==$(dirname "$(realpath $0)")
-
-
-
-dirname "$myloc"
+pwd
 
 
 

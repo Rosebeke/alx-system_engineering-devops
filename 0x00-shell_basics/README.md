@@ -1,0 +1,41 @@
+#!/bin/bash
+
+
+
+
+
+
+
+echo $0
+
+
+
+
+
+
+
+full_path=$(realpath $0)
+
+
+
+echo $./0-current_working_directory
+
+
+
+/root/alx-system_engineering-devops/0x00-shell_basics
+
+
+
+
+
+
+
+dir_path=$(0x00-shell_basics $./0-current_working_directory
+
+
+
+/root/alx-system_engineering-devops/0x00-shell_basics)
+
+
+
+echo $dir_path
